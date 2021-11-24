@@ -1,0 +1,2 @@
+# myakamai
+amkamai reverse
